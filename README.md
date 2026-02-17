@@ -249,7 +249,7 @@ Für jeden Mitarbeiter können folgende Felder gepflegt werden:
 
 | Feld | Beschreibung | Beispielwerte |
 |------|-------------|---------------|
-| 🏷️ Funktion | Organisatorische Rolle | NCMD Mitarbeiter, PA Leitung, KH-Direktor |
+| 🏷️ Funktion | Organisatorische Rolle | MD Mitarbeiter, PA Leitung, KH-Direktor |
 | ⭐ Rang | Administrativer Rang | – |
 | 🎓 Med. Grad 1 | Erster medizinischer Grad | Rettungshelfer bis Chefarzt |
 | 🔬 Fachrichtung 1 | Erste Spezialisierung | Allgemeinmedizin, Chirurgie, Psychiatrie, Gynäkologie, Tiermedizin |
