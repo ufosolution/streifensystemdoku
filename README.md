@@ -440,7 +440,6 @@ Neben rollenbasierten Berechtigungen können **einzelnen Benutzern** zusätzlich
 | Schlüssel | Funktion |
 |-----------|---------|
 | `nightshift` | 🌙 Zugang zum Nachtschicht-System |
-| `no_clocktime` | ⏱️ Befreiung von der Stempelpflicht |
 
 > ⚡ **Priorität:** Benutzer-spezifische Berechtigungen überschreiben rollenbasierte Einstellungen.
 
