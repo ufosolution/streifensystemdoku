@@ -583,6 +583,5 @@ Das System loggt automatisch in konfigurierte Discord-Kanäle:
 | ⬆️ Uprank | Beförderung auf den nächsten Rang |
 | ⚖️ Sanktion | Disziplinarmaßnahme / Verwarnung |
 | 💤 AFK | Away From Keyboard (Inaktiv) |
-| 📡 SSE | Server-Sent Events (Echtzeit-Updates) |
 | 🏥 MD | Medical Department (Rettungsdienst) |
 | 🏥 PMD | Private Medical Department |
